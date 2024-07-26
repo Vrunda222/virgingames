@@ -1,0 +1,107 @@
+2024-07-26 13:07:915 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 13:07:470 INFO  ManageBrowser :31 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (724bf025cec89caaa76d6d98a4cc9dfb)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 13:07:812 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 13:07:230 INFO  ManageBrowser :29 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (fdadcaf8238e4ce6b5ecb223c409ef6c)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 13:07:408 INFO  ManageBrowser :35 - Clicking on blog link [[ChromeDriver: chrome on windows (fdadcaf8238e4ce6b5ecb223c409ef6c)] -> class name: StyledRouterLink-sc-1f8on1q-1]
+2024-07-26 13:07:105 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 13:07:176 INFO  ManageBrowser :29 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (6b15a9776c0a59446520f6796bb55698)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 13:07:322 INFO  ManageBrowser :35 - Clicking on blog link [[ChromeDriver: chrome on windows (6b15a9776c0a59446520f6796bb55698)] -> class name: StyledRouterLink-sc-1f8on1q-1]
+2024-07-26 13:07:657 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 13:07:332 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 13:07:584 INFO  ManageBrowser :27 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (9698414eade3e81a07ae3af0cc838b86)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 13:07:981 INFO  ManageBrowser :32 - Clicking on blog link [[ChromeDriver: chrome on windows (9698414eade3e81a07ae3af0cc838b86)] -> link text: Blog]
+2024-07-26 14:07:825 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:351 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (2b5cbb33db11a9fdce037dce1bf5f125)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:734 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (2b5cbb33db11a9fdce037dce1bf5f125)] -> link text: Blog]
+2024-07-26 14:07:404 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:792 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (b9a179a00908a8a4865bf10f34dc5bac)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:193 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (b9a179a00908a8a4865bf10f34dc5bac)] -> link text: Blog]
+2024-07-26 14:07:505 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' Proxy element for: DefaultElementLocator 'By.linkText: The Hidden Treasures of Egypt-Themed Slots'
+2024-07-26 14:07:489 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:905 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (6df8e7fb472a2c6dc95e414707c8e05e)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:24 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (6df8e7fb472a2c6dc95e414707c8e05e)] -> link text: Blog]
+2024-07-26 14:07:610 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:772 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (c6b0100cd08163672ca43233e087e718)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:152 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (c6b0100cd08163672ca43233e087e718)] -> link text: Blog]
+2024-07-26 14:07:435 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (c6b0100cd08163672ca43233e087e718)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:564 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (c6b0100cd08163672ca43233e087e718)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:722 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:264 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (99b3723cd5bf8d78b0b11a3f4bdf9401)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:502 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (99b3723cd5bf8d78b0b11a3f4bdf9401)] -> link text: Blog]
+2024-07-26 14:07:968 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (99b3723cd5bf8d78b0b11a3f4bdf9401)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:90 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (99b3723cd5bf8d78b0b11a3f4bdf9401)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:526 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:852 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (67feaa51e6cdfb7808221966912c256d)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:985 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (67feaa51e6cdfb7808221966912c256d)] -> link text: Blog]
+2024-07-26 14:07:769 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:952 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (5b67f8db0b662011c981cfd01ff687b5)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:106 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (5b67f8db0b662011c981cfd01ff687b5)] -> link text: Blog]
+2024-07-26 14:07:418 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:559 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (59f72303f3e36c03c6c23a19af1d5e6b)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:691 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (59f72303f3e36c03c6c23a19af1d5e6b)] -> link text: Blog]
+2024-07-26 14:07:266 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (59f72303f3e36c03c6c23a19af1d5e6b)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:484 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:603 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (15745c43b1a09280fcd29570d50d2d19)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:963 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (15745c43b1a09280fcd29570d50d2d19)] -> link text: Blog]
+2024-07-26 14:07:930 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:160 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (acecbc258ea6a229d8dcc346c77b9871)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:295 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (acecbc258ea6a229d8dcc346c77b9871)] -> link text: Blog]
+2024-07-26 14:07:836 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (acecbc258ea6a229d8dcc346c77b9871)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:963 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (acecbc258ea6a229d8dcc346c77b9871)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:858 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:295 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (0a716c146da0e30a80835de9c2ec8b32)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:598 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (0a716c146da0e30a80835de9c2ec8b32)] -> link text: Blog]
+2024-07-26 14:07:21 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (0a716c146da0e30a80835de9c2ec8b32)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:128 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (0a716c146da0e30a80835de9c2ec8b32)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:553 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:843 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (767ae435f7193b6427e647ab9682f244)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:255 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (767ae435f7193b6427e647ab9682f244)] -> link text: Blog]
+2024-07-26 14:07:544 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (767ae435f7193b6427e647ab9682f244)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:667 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (767ae435f7193b6427e647ab9682f244)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:131 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:455 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (e817b2a7f0efd71ec6d6b889c7c5cf6b)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:880 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (e817b2a7f0efd71ec6d6b889c7c5cf6b)] -> link text: Blog]
+2024-07-26 14:07:244 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (e817b2a7f0efd71ec6d6b889c7c5cf6b)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:312 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (e817b2a7f0efd71ec6d6b889c7c5cf6b)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:176 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:480 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (5ee155309590e96be0fbfa0d341393d7)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:773 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (5ee155309590e96be0fbfa0d341393d7)] -> link text: Blog]
+2024-07-26 14:07:180 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (5ee155309590e96be0fbfa0d341393d7)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:320 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (5ee155309590e96be0fbfa0d341393d7)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:82 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:162 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (62d5445d000461d0940cb63a104a561b)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:252 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (62d5445d000461d0940cb63a104a561b)] -> link text: Blog]
+2024-07-26 14:07:640 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (62d5445d000461d0940cb63a104a561b)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:720 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (62d5445d000461d0940cb63a104a561b)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:473 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:733 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (21a0edc5650bc49f64a67856c352d651)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:17 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (21a0edc5650bc49f64a67856c352d651)] -> link text: Blog]
+2024-07-26 14:07:355 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (21a0edc5650bc49f64a67856c352d651)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:460 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (21a0edc5650bc49f64a67856c352d651)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:54 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:867 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (f90f85de3ef3197c45b4959edac37f41)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:47 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (f90f85de3ef3197c45b4959edac37f41)] -> link text: Blog]
+2024-07-26 14:07:73 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:760 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (168e55765549f4677652ed6b1de82dab)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:304 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (168e55765549f4677652ed6b1de82dab)] -> link text: Blog]
+2024-07-26 14:07:986 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (168e55765549f4677652ed6b1de82dab)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:61 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 14:07:623 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (496873efb1af0704379e57b362a271b3)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 14:07:834 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (496873efb1af0704379e57b362a271b3)] -> link text: Blog]
+2024-07-26 14:07:628 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (496873efb1af0704379e57b362a271b3)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 14:07:777 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (496873efb1af0704379e57b362a271b3)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 15:07:211 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 15:07:65 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (0635742ec14f2b99ba0902a194ce498f)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 15:07:630 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (0635742ec14f2b99ba0902a194ce498f)] -> link text: Blog]
+2024-07-26 15:07:158 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 15:07:613 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (ff36ee44f46261a792b253134932b5ed)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 15:07:14 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (ff36ee44f46261a792b253134932b5ed)] -> link text: Blog]
+2024-07-26 15:07:500 INFO  ManageBrowser :27 - Verify the welcome text 'Welcome to the Virgin Games Blog' [[ChromeDriver: chrome on windows (ff36ee44f46261a792b253134932b5ed)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 15:07:644 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (ff36ee44f46261a792b253134932b5ed)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
+2024-07-26 15:07:846 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 15:07:706 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (d62a0c16debfda6f67edca681c625d0f)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 15:07:989 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (d62a0c16debfda6f67edca681c625d0f)] -> link text: Blog]
+2024-07-26 15:07:961 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-26 15:07:16 INFO  ManageBrowser :28 - Clicking on All Cookies Button [[ChromeDriver: chrome on windows (ecc7462afd1d53aeff5484e10ec7ee47)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-26 15:07:501 INFO  ManageBrowser :33 - Clicking on blog link [[ChromeDriver: chrome on windows (ecc7462afd1d53aeff5484e10ec7ee47)] -> link text: Blog]
+2024-07-26 15:07:844 INFO  ManageBrowser :33 - Clicking on blog post 'The Hidden Treasures of Egypt-Themed Slots' [[ChromeDriver: chrome on windows (ecc7462afd1d53aeff5484e10ec7ee47)] -> xpath: //div[@class='StyledBlogGrid-sc-bw5rq7-2 cbZomE']//h3[@class='StyledTitle-sc-18zd085-3 xEXYN'][normalize-space()='The Hidden Treasures of Egypt-Themed Slots']]
